@@ -6,4 +6,7 @@
 <br>
 ● ✉️ You can contact me at Erickferreiralima000@gmail.com<br>
 ● 🌍  I'm based in São Paulo<br>
-● 🧠  I'm learning to develop systems
+● 🧠  I'm learning to develop 
+
+<h2>###Skills</h2>
+
