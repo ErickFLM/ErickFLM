@@ -1,7 +1,7 @@
-  <h1>Hi 👋 My name is ErickFLM</h1>
+ <h1>Hi 👋 My name is ErickFLM</h1>
 
 <br>
-</h2>Systems Development student<h2>
+<h2>Systems Development student</h2>
 
 <br>
 * ✉️ You can contact me at [Erickferreiralima000@gmail.com]<br>
