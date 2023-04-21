@@ -1,9 +1,9 @@
-Hi <a href="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"></a> My name is ErickFLM
-<hr>
+ <h1>Hi 👋 My name is ErickFLM</h1>
+ =========================
 <br>
-Systems Development student
-<hr>
+</h2>Systems Development student<h2>
+-----------------
 <br>
-* ✉️ You can contact me at [Erickferreiralima000@gmail.com]
-* 🌍  I'm based in São Paulo
+* ✉️ You can contact me at [Erickferreiralima000@gmail.com]<br>
+* 🌍  I'm based in São Paulo<br>
 * 🧠  I'm learning to develop systems
