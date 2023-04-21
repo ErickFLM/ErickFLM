@@ -1,1 +1,9 @@
-<a href="https://app.daily.dev/ErickFLM"><img src="https://api.daily.dev/devcards/f1fe935100e0422f8f78f0e63efeb751.png?r=c1y" width="400" alt="Erick Ferreira Lima's Dev Card"/></a>
+Hi <a href="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"></a> My name is ErickFLM
+<hr>
+<br>
+Systems Development student
+<hr>
+<br>
+* ✉️ You can contact me at [Erickferreiralima000@gmail.com]
+* 🌍  I'm based in São Paulo
+* 🧠  I'm learning to develop systems
