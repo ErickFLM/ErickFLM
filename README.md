@@ -8,5 +8,6 @@
 ● 🌍  I'm based in São Paulo<br>
 ● 🧠  I'm learning to develop 
 
-<h2>###Skills</h2>
+
+<p align="left"> <a href="https://discord.com/users/335935397580242955" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
