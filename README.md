@@ -5,7 +5,7 @@ Currently, I'm involved in challenging projects that help me stay sharp and cont
 
 ## About me 
 
-<a href="www.linkedin.com/in/erickflm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/erickflm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:Erickferreiralima000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </a> 
 <br/>
