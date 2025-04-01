@@ -11,7 +11,7 @@ Currently, I'm involved in challenging projects that help me stay sharp and cont
 <br/>
             
 ### 📚 My Stack
-<img src="https://skillicons.dev/icons?i=java,cpp,arduino,androidstudio,kotlin,php,javascript,html,css,mysql,figma" />
+<img src="https://skillicons.dev/icons?i=java,cpp,kotlin,php,javascript,html,css,arduino,androidstudio,mysql,figma" />
 
 ### 🧠 I'm Learning
 <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,laravel,linux,"/><br>
